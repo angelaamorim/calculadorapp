@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">calculadorapp</string>
+    <string name="action_settings">action_settings</string>
+    <string name="historico">Histórico</string>
+</resources>
